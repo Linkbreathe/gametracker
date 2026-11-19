@@ -1,0 +1,94 @@
+{
+  "titles": {
+    "FOR_UnfortunateGnome": "解救侏儒",
+    "GLO_Tadpole_SUB_Druid": "营救德鲁伊哈尔辛",
+    "TUT_NautiloidEscape": "逃离鹦鹉螺号",
+    "ORI_COM_Astarion": "苍白的精灵",
+    "GLO_Tadpole_SUB_Apprentice": "向治疗者内蒂求助",
+    "ORI_Avatar_Gale_Letter": "以防身故",
+    "PLA_StuckHalfElf": "营救被困男子",
+    "GLO_UnleashPowers": "发掘自身潜能",
+    "ORI_COM_Wyll_SUB_Duke": "失踪的大公爵",
+    "GLO_Tadpole": "寻找治疗方法",
+    "DEN_VoloAdventure": "解救沃洛",
+    "TUT_ShadowheartEscape": "解救夺心魔的囚徒",
+    "ORI_COM_ShadowHeart": "黑暗之女",
+    "ORI_COM_Gale_Letter": "以防身故",
+    "ORI_COM_Gale": "深水城的法师",
+    "PLA_GrandDukeRescue": "营救大公爵",
+    "ORI_Avatar_Wyll_SUB_Duke": "失踪的大公爵",
+    "GLO_Tadpole_SUB_Priestess": "向地精女祭司求助",
+    "DEN_Conflict_SUB_AoD": "突袭翠绿林地",
+    "DEN_SnakeCourt": "救下阿拉贝拉",
+    "DEN_Conflict_SUB_Goblin": "击败地精",
+    "GLO_PathToMoonrise": "前往月出之塔",
+    "GLO_ArtefactDiscovery": "探索神器的秘密",
+    "DEN_Conflict": "救助难民"
+  },
+  "objectives": {
+    "TUT_NautiloidEscape": {
+      "TUT_NautiloidEscape_LearnedHelm": "赶到舰桥"
+    },
+    "GLO_Tadpole_SUB_Druid": {
+      "GLO_Tadpole_SUB_Druid_Defend": "守住翠绿林地，击退来袭的地精",
+      "GLO_Tadpole_SUB_Druid_Find": "到地精营地寻找哈尔辛",
+      "GLO_Tadpole_SUB_Druid_FindPit": "去地精营地的牢房寻找哈尔辛"
+    },
+    "ORI_COM_Astarion": {
+      "ORI_COM_Astarion_Travel": "和阿斯代伦继续同行"
+    },
+    "ORI_Avatar_Gale_Letter": {
+      "ORI_Avatar_Gale_FollowInstruction": "按留下的指示行动"
+    },
+    "PLA_StuckHalfElf": {
+      "PLA_StuckHalfElf_KnowDowry": "找到嫁妆"
+    },
+    "GLO_UnleashPowers": {
+      "GLO_UnleashPowers_FindTadpole": "探索寄生虫赋予的能力"
+    },
+    "ORI_COM_Wyll_SUB_Duke": {
+      "ORI_COM_Wyll_SUB_Duke_Search": "寻找雷文伽德大公爵"
+    },
+    "GLO_Tadpole": {
+      "GLO_Tadpole_FindSolution": "寻找移除夺心魔寄生虫的办法"
+    },
+    "DEN_VoloAdventure": {
+      "DEN_VoloAdventure_Meet": "返回营地"
+    },
+    "ORI_COM_ShadowHeart": {
+      "ORI_COM_Shadowheart_Travel": "和影心继续同行"
+    },
+    "ORI_COM_Gale_Letter": {
+      "ORI_COM_Gale_FollowInstruction": "照着幻影的指示行动"
+    },
+    "ORI_COM_Gale": {
+      "ORI_COM_Gale_Hunt": "设法缓解盖尔的病情"
+    },
+    "PLA_GrandDukeRescue": {
+      "PLA_GrandDukeRescue_SearchGrandDuke": "寻找雷文伽德大公爵"
+    },
+    "ORI_Avatar_Wyll_SUB_Duke": {
+      "ORI_Avatar_Wyll_SUB_Duke_Search": "寻找雷文伽德大公爵"
+    },
+    "GLO_Tadpole_SUB_Priestess": {
+      "GLO_Tadpole_SUB_Priestess_Follow": "跟上女祭司迦特"
+    },
+    "DEN_Conflict_SUB_AoD": {
+      "DEN_Conflict_SUB_AoD_Rest": "为突袭林地做好准备"
+    },
+    "DEN_Conflict_SUB_Goblin": {
+      "DEN_Conflict_SUB_Goblin_Hunt3Leaders": "消灭三名地精首领",
+      "DEN_Conflict_SUB_Goblin_GoToCamp": "赶往地精营地",
+      "DEN_Conflict_SUB_Goblin_HuntChief": "找到地精营地的首领"
+    },
+    "GLO_PathToMoonrise": {
+      "GLO_PathToMoonrise_FindWayToMT": "找到去月出之塔的路"
+    },
+    "GLO_ArtefactDiscovery": {
+      "GLO_ArtefactDiscovery_ReceivedArtefact": "进一步查明神器的来历和作用"
+    },
+    "DEN_Conflict": {
+      "DEN_Conflict_ResolveConflict": "设法平息这场冲突"
+    }
+  }
+}

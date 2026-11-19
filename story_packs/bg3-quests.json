@@ -1,0 +1,180 @@
+{
+  "TUT_NautiloidEscape": [
+    {
+      "requires": [
+        "Start",
+        "LearnedHelm_Laezel"
+      ],
+      "title": "Lae’zel points you toward the helm",
+      "text": "The mind flayers brought you aboard their ship as a prisoner and infected you with a parasite. Escape took priority over working out what the infection meant. Lae’zel, a githyanki you met aboard, gave that first crisis a clear destination. She believed that reaching the helm would give you a way off the ship."
+    },
+    {
+      "requires": [
+        "Start",
+        "ReachedHelm",
+        "EscapedHell"
+      ],
+      "title": "The nautiloid escapes the Hells",
+      "text": "At the helm, a mind flayer directed your attention to the transponder and told you to join its nerve connections. The device mattered because the ship was still in the Hells. Your escape marks the end of the immediate danger aboard the nautiloid, with the infection acquired during captivity still demanding an answer."
+    }
+  ],
+  "GLO_Tadpole": [
+    {
+      "requires": [
+        "WokeAtCrash",
+        "LearnedGroveSituation",
+        "LearnedApprentice"
+      ],
+      "title": "The search for a healer reaches the grove",
+      "text": "After the nautiloid crashed back on the Material Plane, finding medical help became your first reason to explore. A grove sheltering refugees gave you a place to ask about the infection. The search became more concrete when you learned that Nettie was there. Someone local might be able to tell you what the parasite would do."
+    },
+    {
+      "requires": [
+        "PoisonedByApprentice_ParentCompletion"
+      ],
+      "title": "Nettie responds to the infection with poison",
+      "text": "Nettie saw the prospect of another mind flayer as a threat and gave you a deadly venom. She meant to stop the transformation by killing its host. The encounter made the search for help more dangerous. You needed someone who understood the parasite and who was willing to help you survive it."
+    },
+    {
+      "requires": [
+        "SawTrueSoulMeldOrTadpole"
+      ],
+      "title": "The infection connects you to the Absolute’s followers",
+      "text": "Among the people who worship the Absolute, you encountered someone whose mind could reach yours. That contact revealed that at least one of the cult’s followers carried a parasite too. Your condition now gave you a connection to an organized group, and a reason to ask what their faith has to do with the infection."
+    }
+  ],
+  "GLO_Tadpole_SUB_Druid": [
+    {
+      "requires": [
+        "LearnedLostHalsin",
+        "LearnedResearchHalsin",
+        "LearnedExpeditionGoal",
+        "LearnedPit"
+      ],
+      "title": "Halsin’s research points toward the goblin camp",
+      "text": "Halsin had gone into goblin territory while investigating the sort of parasite you carry. His research linked it to a camp in a former temple of Selûne. Reports that the goblins held expedition survivors helped narrow the search. Finding Halsin mattered because he might understand the infection, and because his own investigation led to the same camp."
+    },
+    {
+      "requires": [
+        "FoundHalsin_Known_AoD"
+      ],
+      "title": "Halsin redirects the search toward Moonrise",
+      "text": "You found Halsin, and he told you his healing could take the search only so far. He raised Moonrise Towers as a place to pursue answers and asked for help protecting the grove from the goblins. Dealing with the threat to his home could give you an ally for the next part of the investigation."
+    },
+    {
+      "requires": [
+        "FoundHalsin_Known_AoD",
+        "HalsinLeft_AoDStarted"
+      ],
+      "title": "Halsin returns to defend the grove",
+      "text": "Halsin left to confront the goblins attacking the grove. When you last spoke about the parasite, he had offered to help look for answers at Moonrise Towers. That prospect now depends on getting through the crisis at the grove. If the defenders hold, the grove is where you expect to find him again."
+    }
+  ],
+  "ORI_COM_ShadowHeart": [
+    {
+      "requires": [
+        "Recruited_Beach",
+        "SawIncurableWound"
+      ],
+      "title": "A shared infection brings Shadowheart into the party",
+      "text": "Shadowheart joined you after the ordeal aboard the nautiloid. Her infection gave you a common reason to travel together and look for help. You later saw a burst of pain come from a small wound on her hand. That incident gave you a separate question to ask about a companion whose condition already mattered to your own survival."
+    },
+    {
+      "requires": [
+        "SawIncurableWound",
+        "IncurableWoundDiscussed"
+      ],
+      "title": "Shadowheart’s wound remains unexplained",
+      "text": "You asked Shadowheart about the pain you had seen her suffer. She said she did not know what caused it. The conversation left the source of the pain and how much she understood open. You saw an unusually severe burst of pain centered on the small wound in her hand."
+    }
+  ],
+  "ORI_COM_Gale": [
+    {
+      "requires": [
+        "RecruitedGale",
+        "LearnedGoal"
+      ],
+      "title": "Gale confides in the party about his condition",
+      "text": "Gale joined the party, saying that he had also been aboard the nautiloid. He later told you about a condition that he manages by absorbing the Weave from powerful enchanted objects. He warned that letting it go untreated could have grave effects. That disclosure made looking after him a concern alongside the party’s search for a cure."
+    },
+    {
+      "requires": [
+        "LearnedGoal",
+        "NeedFirstItem"
+      ],
+      "title": "Gale needs an enchanted item soon",
+      "text": "Gale’s condition worsened to the point that he asked for something he could use immediately. The treatment requires magic stored in an item, which he must draw into himself. An enchanted object can therefore matter as much for keeping a companion stable as for equipping the party. His first request makes that choice pressing."
+    }
+  ],
+  "PLA_GrandDukeRescue": [
+    {
+      "requires": [
+        "OrderedBreachInn",
+        "EnteredInn",
+        "FoundStuckHalfElf"
+      ],
+      "title": "Fire at Waukeen’s Rest makes the rescue urgent",
+      "text": "At Waukeen’s Rest, the Flaming Fist were trying to force their way into a burning inn because they believed a Grand Duke of Baldur’s Gate was inside. Once you entered, your search also brought you to a man pinned under debris. As the fire spread, you had to look for the duke while a survivor already in view needed help."
+    },
+    {
+      "requires": [
+        "Counsellor_DidntRescue",
+        "LearnedMoonrise"
+      ],
+      "title": "The search for the duke shifts toward Moonrise",
+      "text": "You came away from the rescue attempt without the duke or a witness who could confirm where he went. His influence would still make him a valuable ally. Learning that followers of the Absolute gather at Moonrise Towers gave you somewhere else to investigate. The idea that he was taken there remains a lead to check."
+    }
+  ],
+  "DEN_SnakeCourt": [
+    {
+      "requires": [
+        "EnteredLair"
+      ],
+      "title": "Kagha sits in judgment over Arabella",
+      "text": "In the druids’ lair, you found a child named Arabella facing judgment from Kagha, the druids’ leader. The circumstances put the child in immediate danger. This was the moment when you could intervene on her behalf, with her ability to leave the lair safely depending on how the hearing ended."
+    },
+    {
+      "requires": [
+        "KidFreedFirst",
+        "ParentThankful"
+      ],
+      "title": "Arabella makes it back to her parents",
+      "text": "Your intervention saved Arabella from the snake, and she ran straight back to her parents. They thanked you once they knew she was safe. That reunion is the outcome of this encounter. What began as a child in danger under the druids’ judgment ended with her family together again."
+    }
+  ],
+  "GLO_ArtefactDiscovery": [
+    {
+      "requires": [
+        "AcceptedQuestRecruitedShadowheart"
+      ],
+      "title": "Shadowheart’s artefact appears to shield the party",
+      "text": "Shadowheart carried an unfamiliar artefact that seemed to protect the party when a hostile voice made itself heard. The incident gave the object a practical importance and a reason to ask Shadowheart about it. For now, your knowledge rests on that encounter and the protection the artefact appeared to provide."
+    },
+    {
+      "requires": [
+        "AcceptedQuestRecruitedShadowheart",
+        "GoblinCampMinthara"
+      ],
+      "title": "Minthara is searching for the same artefact",
+      "text": "Minthara, a drow commander, spoke about the object you had seen protect the party. She was searching for it on behalf of the Absolute and believed it was in the Emerald Grove. Her interest matters because the object is already with your group. You now know who is seeking it and where that search is aimed."
+    }
+  ],
+  "DEN_Conflict": [
+    {
+      "requires": [
+        "MetKagha",
+        "ZevGaveQuest"
+      ],
+      "title": "The tieflings are caught between the druids and the goblins",
+      "text": "Kagha asked you to guide the tieflings out and intended to seal the grove. For the refugees, the road itself was the problem. Goblins made it dangerous to leave, while the decision to seal the grove made it urgent to find a solution. Helping the refugees meant addressing the threat outside as well as the dispute inside."
+    },
+    {
+      "requires": [
+        "HeardAboutAoD",
+        "HalsinGaveQuest"
+      ],
+      "title": "An attack threatens the grove",
+      "text": "You heard that the goblins planned to attack the grove, giving you a reason to return quickly. You had also found Halsin, a druid who wanted to protect his home. His aim and the refugees’ immediate need now overlap. The same assault threatens the place where they have taken shelter."
+    }
+  ]
+}
